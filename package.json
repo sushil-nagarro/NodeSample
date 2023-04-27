@@ -4,8 +4,7 @@
     "description": "Node.js on Docker",
     "main": "hello.js",
     "scripts": {
-      "start": "node apps.js",
-      "build":"npm run build"
+      "start": "node app.js"      
     },
     "dependencies": {
       "express": "^4.16.1"
